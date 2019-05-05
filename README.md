@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/il98kgSrXh66I/giphy.gif)
 
-IBM has developed the Data Science Professional Certificate on data science topics including: open source tools and libraries, methodologies, Python, databases and SQL, data visualization, data analysis, and machine learning. You will practice hands-on in the IBM Cloud (at no additional cost) using real data science tools and real-world data sets.
+IBM developed Data Science Professional Certificate on data science topics including: open source tools and libraries, methodologies, Python, databases and SQL, data visualization, data analysis, and machine learning. You will practice hands-on in the IBM Cloud (at no additional cost) using real data science tools and real-world data sets.
 
 [Data Science Methodology](https://github.com/2series/Data-Science/tree/master/1%20-%20Data%20Science%20Methodology)
 
